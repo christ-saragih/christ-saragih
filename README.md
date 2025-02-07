@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bennefit Christy Saragih  
+# Hi there!👋 I'm Bennefit Christy Saragih  
 
 🚀 Software Developer | 💻 Tech Enthusiast | 🎯 Lifelong Learner  
 
@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 - 🎓 Student at IPB University, majoring in Software Engineering  
-- 🔥 Passionate about **Web Development** (React.js, Laravel, Tailwind CSS)  
+- 🔥 Passionate about **Web Development** (Front-End, Back-End, Full-Stack)  
 - 💼 Currently interning as a **Web Developer** at **PT Amerta Indah Otsuka**  
 - 📫 Reach me at **bennefit.19@gmail.com**  
 
@@ -18,15 +18,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 📌 Featured Projects  
-🔹 **[Project 1 - Manajemen Investor](#)**  
-A web-based investor management system built with **Tailwind, React.js, Express.js**.  
-
-🔹 **[Project 2 - SNI Award Website](#)**  
-A web platform for the National Standardization Agency using **Laravel & Bootstrap**.  
 
 ---
 
